@@ -10,3 +10,4 @@ This is the code for a program that identifies whether the given image contains 
 
 ![App Screenshot](https://i.ibb.co/rGq58Pt/Capture.png)
 
+![App Screenshot](https://i.ibb.co/9rvYWqh/Capture.png)
