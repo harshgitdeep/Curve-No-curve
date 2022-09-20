@@ -1,4 +1,12 @@
-# Curve-No-curve
+
+# Curve/ No Curve identification
+
 This is the code for a program that identifies whether the given image contains a curve or not.
 
-Link for the dataset images - https://drive.google.com/drive/folders/1XIy-S_LLPmMZw32StUZyVPJZWHhgfX2V?usp=sharing
+![Logo](https://i.ibb.co/6ngmn3B/Logo.png)
+
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/rGq58Pt/Capture.png)
+
