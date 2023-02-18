@@ -8,6 +8,9 @@ This is code for a program that identifies whether the given image contains a cu
 <p align="center">
 <a href="https://www.linkedin.com/posts/harshdeep-singh-b09160190_chitkara-opensourcechandigarh-chitkarau-activity-6977618111214567425-EPr-?utm_source=share&utm_medium=member_desktop" ><img src="https://i.ibb.co/6ngmn3B/Logo.png" alt="Logo" height="250px"> </a> </p>
 
+Linkedin post:<a href="https://www.linkedin.com/posts/harshdeep-singh-b09160190_chitkara-opensourcechandigarh-chitkarau-activity-6977618111214567425-EPr-?utm_source=share&utm_medium=member_desktop" > Click Here!</a> 
+
+
 
 ## Screenshots
 
